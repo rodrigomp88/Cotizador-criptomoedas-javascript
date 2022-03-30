@@ -49,11 +49,11 @@ input[type="submit"] {
 }
 
 .resultado {
-  color: white;
+  color: #000;
 }
 .resultado h2 {
   font-weight: bold;
-  color: white;
+  color: #000;
 }
 
 .resultado p {
@@ -81,7 +81,7 @@ p.precio {
 .spinner > div {
   width: 18px;
   height: 18px;
-  background-color: white;
+  background-color: rgb(31, 165, 199);
 
   border-radius: 100%;
   display: inline-block;
